@@ -4,12 +4,7 @@
 
 ![Result Image Calculator](https://github.com/amandabuenotozatti/React-CalculatorProject/blob/master/ReactApp.gif)
 
-### Before Starting: 
-##### Install NPM using below command
-> sudo apt install npm
-
-
-##### Then after installing the node and npm, to create an app, the following command is needed to download the necessary dependencies your app need to run. Such as: React, ReactDom etc:
+##### After installing the node and npm, to create an app, the following command is needed to download the necessary dependencies your app need to run. Such as: React, ReactDom etc:
 > npx create-react-app calculator
 
 
