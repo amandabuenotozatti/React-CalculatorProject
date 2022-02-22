@@ -2,6 +2,8 @@
 > The objective of this project is to build a calculator using React features and to build the logic of the calculator's operation.
 > Hope you enjoy! 
 
+![Result Image Calculator](https://github.com/amandabuenotozatti/React-CalculatorProject/blob/master/ReactApp.gif)
+
 ### Before Starting: 
 ##### Install NPM using below command
 > sudo apt install npm
