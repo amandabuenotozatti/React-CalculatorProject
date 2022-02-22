@@ -1,6 +1,12 @@
 ## Calculator Application using ReactJS
 > The objective of this project is to build a calculator using React features and to build the logic of the calculator's operation.
-> Hope you enjoy! 
+> Hope you enjoy!  
+--- 
+
+### To access the deploy follow the link below:
+> https://react-project-calculator-amandatozatti.netlify.app/
+</br>
+
 
 ![Result Image Calculator](https://github.com/amandabuenotozatti/React-CalculatorProject/blob/master/ReactApp.gif)
 
