@@ -18,3 +18,9 @@
 > cd calculator
 > npm start
 
+---
+### Most important points: 
+- Organization of code into modules and components
+- CSS grid with columns
+- Use of reduce methods
+- Destructuring in practice
